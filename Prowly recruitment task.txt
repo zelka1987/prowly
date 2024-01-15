@@ -1,0 +1,3 @@
+Task 1.
+
+Feature: Searching for the „Prowly Media Monitoring” phrase on bing.com browser page, filtrating by categories
